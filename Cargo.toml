@@ -1,0 +1,7 @@
+[package]
+name = "cistercian_numerals"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+draw = "0.3.0"

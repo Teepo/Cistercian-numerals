@@ -1,0 +1,13 @@
+/home/anthony/App/Cistercian-numerals/target/rls/debug/deps/rgb-f8afeaef06a51398.rmeta: /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/lib.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/mod.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/array.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/tuple.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/ops.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/pixel.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgb.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgba.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/alt.rs
+
+/home/anthony/App/Cistercian-numerals/target/rls/debug/deps/rgb-f8afeaef06a51398.d: /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/lib.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/mod.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/array.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/tuple.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/ops.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/pixel.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgb.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgba.rs /home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/alt.rs
+
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/lib.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/mod.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/array.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/convert/tuple.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/ops.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/pixel.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgb.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/internal/rgba.rs:
+/home/anthony/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.27/src/alt.rs:
